@@ -1,19 +1,19 @@
+
 {
 	"members": [
 		{
 			"id": 100,
-			"firstname": "Eldar",
-			"lastname": "Maharramli",
-			"name": "Eldar Maharramli",
-      "dateOfBirth": "2000.05.12",
-			"nationality": "Azerbaijan"
+			"firstname": "Zill e",
+			"lastname": "Islam",
+			"name": "Islam Zill e",
+			"dateOfBirth": "19999",
+			"nationality": "Earth"
 		},
 		{
 			"id": 101,
 			"firstname": "Orkhan",
 			"lastname": "Shahbazov",
-			"name": " Shahbazov Orkhan",
-			"nationality": "Azerbaijan"
+			"name": " Shahbazov Orkhan"
 		},
 		{
 			"id": 102,
@@ -25,8 +25,7 @@
 			"id": 103,
 			"firstname": "Sirin Oglu Hasanli",
 			"lastname": "Azad",
-			"name": " Azad Sirin Oglu Hasanli",
-			"nationality": "Azerbaijan"
+			"name": " Azad Sirin Oglu Hasanli"
 		},
 		{
 			"id": 104,
@@ -74,8 +73,7 @@
 			"id": 111,
 			"firstname": "Laman",
 			"lastname": "Suleymanova",
-			"name": "Suleymanova Laman",
-			"nationality": "Azerbaijan"
+			"name": "Suleymanova Laman"
 		},
 		{
 			"id": 112,

@@ -6,12 +6,14 @@
 			"firstname": "Eldar",
 			"lastname": "Maharramli",
 			"name": "Eldar Maharramli"
+			"nationality": "Azerbaijan"
 		},
 		{
 			"id": 101,
 			"firstname": "Orkhan",
 			"lastname": "Shahbazov",
 			"name": " Shahbazov Orkhan"
+			"nationality": "Azerbaijan"
 		},
 		{
 			"id": 102,
@@ -24,6 +26,7 @@
 			"firstname": "Sirin Oglu Hasanli",
 			"lastname": "Azad",
 			"name": " Azad Sirin Oglu Hasanli"
+			"nationality": "Azerbaijan"
 		},
 		{
 			"id": 104,
@@ -72,6 +75,7 @@
 			"firstname": "Laman",
 			"lastname": "Suleymanova",
 			"name": "Suleymanova Laman"
+			"nationality": "Azerbaijan"
 		},
 		{
 			"id": 112,

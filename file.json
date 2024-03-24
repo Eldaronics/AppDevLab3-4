@@ -11,8 +11,7 @@
 			"id": 101,
 			"firstname": "Orkhan",
 			"lastname": "Shahbazov",
-			"name": " Shahbazov Orkhan",
-			"nationality": "Azerbaijan"
+			"name": " Shahbazov Orkhan"
 		},
 		{
 			"id": 102,
@@ -24,8 +23,7 @@
 			"id": 103,
 			"firstname": "Sirin Oglu Hasanli",
 			"lastname": "Azad",
-			"name": " Azad Sirin Oglu Hasanli",
-			"nationality": "Azerbaijan"
+			"name": " Azad Sirin Oglu Hasanli"
 		},
 		{
 			"id": 104,
@@ -73,8 +71,7 @@
 			"id": 111,
 			"firstname": "Laman",
 			"lastname": "Suleymanova",
-			"name": "Suleymanova Laman",
-			"nationality": "Azerbaijan"
+			"name": "Suleymanova Laman"
 		},
 		{
 			"id": 112,
